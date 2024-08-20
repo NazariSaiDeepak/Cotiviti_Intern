@@ -1,4 +1,5 @@
 # Cotiviti_Intern
+Proof of Concept (POC) :
 1. **Content Summarization with Custom Clinical Policy** (`content_summarization_poc1.ipynb`):
    - This notebook demonstrates the use of a custom clinical policy document to generate summaries using the BART model. The model has been tailored to handle the specific content structure and language of clinical policies.
 
